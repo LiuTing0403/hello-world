@@ -15,6 +15,6 @@
     "react/jsx-space-before-closing": 0,
     "react/jsx-first-prop-new-line": 0,
     "react/jsx-closing-bracket-location": 0,
-    "react/prefer-stateless-function": 1
+    "react/prefer-stateless-function": 0
   }
 }
